@@ -1,0 +1,6 @@
+framework module Pods_observable_withUIElement {
+  umbrella header "Pods-observable-withUIElement-umbrella.h"
+
+  export *
+  module * { export * }
+}
